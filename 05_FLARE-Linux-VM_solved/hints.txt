@@ -1,0 +1,120 @@
+The 1st byte of the password is 0x45
+
+Ugali with Sausages or Spaghetti is tasty. It doesn’t matter if you rotate it left or right, it is still tasty! You should try to come up with a great recipe using CyberChef.
+
+"ugali", "unagi" and "udon noodles" are delicious. What a coincidence that all of them start by "u"!
+
+/
+[U]don noodles
+[S]trawberries
+[R]eese's
+/
+[B]anana chips
+[I]ce Cream
+[N]atillas
+/
+[D]onuts
+[O]melettes
+[T]acos
+
+[rol 1]
+In the FLARE team we like to speak in code. You should learn our language, otherwise you want be able to speak with us when you escape (if you manage to escape!). For example, instead of "strawberries" we say "c3RyYXdiZXJyaWVz".
+
+In the FLARE language "spaghetti" is "c3BhZ2hldHRp".
+
+The 2st byte of the password is 0x34
+
+[Vigenere Cipher - microwaves]
+You should follow the FLARE team in Twitter. They post a bunch of interesting stuff and have great conversation on Twitter!
+https://twitter.com/anamma_06
+https://twitter.com/MalwareMechanic
+
+You should follow the FLARE team in Twitter. Otherwise they may get angry and not let you leave even if you get the flag.
+https://twitter.com/anamma_06
+https://twitter.com/osardar1
+https://twitter.com/MalwareMechanic
+
+The 8th byte of the password is: 0x60
+
+[XOR - Reese's]
+
+The 4th byte of the password is: 0x35
+
+Are you good at maths? We love maths at FLARE! We use this formula a lot to decode bytes: "ENCODED_BYTE + 27 + NUMBER1 * NUMBER2 - NUMBER3"
+
+If you are not good in maths, the only thing that can save you is to be a bash expert. Otherwise you will be locked here forever HA HA HA!
+
+[base64]
+
+The 3rd byte of the password is.. it is a joke, we don't like raisins!
+
+The 3rd byte of the password is: 0x51
+
+[VM]
+
+export NUMBER1=2
+export NUMBER2=3
+export NUMBER3=37
+alias FLARE="echo 'The 13th byte of the password is 0x35'"
+
+[encoded + 27 +num1*num2-num3]
+
+ice_cream.txt.broken.new
+If this challenge is too difficult and you want to give up or just in case you got hungry, what about baking some muffins? Try this recipe:
+0 - Cinnamon
+1 - Butter 150gr
+2 - Lemon 1/2
+3 - Eggs 3
+4 - Sugar 150gr
+5 - Flour 250gr
+6 - Milk 30gr
+7 - Icing sugar 10gr
+8 - Apple 100gr
+9 - Raspberries 100gr
+
+Mix 0 to 9 and bake for 30 minutes at 180Â°C
+
+iced_coffee.txt.broken.new
+The only problem with RC4 is that you need a key. The FLARE team normally uses this number: "SREFBE" (as an UTF-8 string). If you have no idea what that means, you should give up and bake some muffins.
+
+The 5th byte of the password is: 0xMS	
+üüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü
+instant_noodles.txt.broken.new
+
+[RC4 - 493513]
+
+The 6th byte of the password is: 0x36
+
+Do you know natillas? In Spain, this term refers to a custard dish made with milk and KEYWORD, similar to other European creams as crème anglaise. In Colombia, the delicacy does not include KEYWORD, and is called natilla.
+
+In the FLARE team we really like Felix Delastelle algorithms, specially the one which combines the Polybius square with transposition, and uses fractionation to achieve diffusion. 
+
+[bifid cipher - eggs]
+
+The 7th byte of the password is: 0x66
+
+Did you know that Giovan Battista Bellaso loved microwaves?
+
+Are you missing something? You should search for it better! It's hidden, but not really.
+
+
+[AES key = Sheep should sleep in a shed15.2, IV=PIZZA00000000000, CBC]
+
+Woow! It seems you are very very close to get the flag! Be careful when converting decimal and hexadecimal values to ASCII and hurry up before we run out of tacos!
+
+The 9th byte of the password is the atomic number of the element moscovium
+The 10th byte of the password is the bell number preceding 203
+The 12th byte of the password is the largest known number to be the sum of two primes in exactly two different ways
+The 14th (and last byte) of the password is the sum of the number of participants from Spain, Singapore and Indonesia that finished the FLARE-ON 7, FLARE-ON 6 or FLARE-ON 5
+
+It seems you are close to escape... We are preparing the tomatoes to throw at you when you open the door! It is only a joke...
+The 11th byte of the password is the number of unique words in /etc/Quijote.txt
+The 13th byte of the password is revealed by the FLARE alias
+
+[MISC]
+
+9th byte is 0x73
+10th byte is 0x34
+12th byte is
+14th byte is 0x49
+11th byte is 0x6c
