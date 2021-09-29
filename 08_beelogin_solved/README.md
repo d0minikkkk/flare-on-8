@@ -14,6 +14,7 @@ The script lowers the keyspace significantly, but some manual intervention is ne
 
 
 key1: ChVCVYzI1dU9cVg1ukBqO2u4UGr9aVCNWHpMUuYDLmDO22cdhXq3oqp8jmKBHUWI
+
 key2: UQ8yjqwAkoVGm7VDdhLoDk0Q75eKKhTfXXke36UFdtKAi0etRZ3DoHPz7NxJPgHl
 
 
