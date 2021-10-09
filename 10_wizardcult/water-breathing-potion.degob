@@ -1,0 +1,87 @@
+// Decoded gob 1
+
+//Types
+// type ID: 68
+type Cpu struct {
+	Acc int64
+	Dat int64
+	Pc int64
+	Cond int64
+	Instructions []vm.Instruction
+}
+
+// type ID: 72
+type ROM struct {
+	A0 int64
+	A1 int64
+	Data []int
+}
+
+// type ID: 73
+type []int []int64
+
+// type ID: 77
+type Link struct {
+	LHDevice int64
+	LHReg int64
+	RHDevice int64
+	RHReg int64
+}
+
+// type ID: 67
+type OutputDevice struct {
+	Name string
+}
+
+// type ID: 71
+type []vm.Cpu []Cpu
+
+// type ID: 75
+type RAM struct {
+	A0 int64
+	A1 int64
+	Data []int
+}
+
+// type ID: 65
+type Program struct {
+	Magic int64
+	Input InputDevice
+	Output OutputDevice
+	Cpus []vm.Cpu
+	ROMs []vm.ROM
+	RAMs []vm.RAM
+	Links []vm.Link
+}
+
+// type ID: 66
+type InputDevice struct {
+	Name string
+}
+
+// type ID: 70
+type []vm.Instruction []Instruction
+
+// type ID: 69
+type Instruction struct {
+	Opcode int64
+	A0 int64
+	A1 int64
+	A2 int64
+	Bm int64
+	Cond int64
+}
+
+// type ID: 74
+type []vm.ROM []ROM
+
+// type ID: 76
+type []vm.RAM []RAM
+
+// type ID: 78
+type []vm.Link []Link
+
+// Value: Program{Magic: 4919, Input: InputDevice{Name: ""}, Output: OutputDevice{Name: ""}, Cpus: []Cpu{Cpu{Acc: 0, Dat: 0, Pc: 0, Cond: 0, Instructions: []Instruction{Instruction{Opcode: 1, A0: 0, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 5, A0: 4, A1: -1, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 1, A0: -1, A1: 1, A2: 0, Bm: 2, Cond: 1}, Instruction{Opcode: 1, A0: 0, A1: 4, A2: 0, Bm: 3, Cond: 1}, Instruction{Opcode: 1, A0: 4, A1: 2, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 2, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 1, A2: 0, Bm: 3, Cond: 0}}}, Cpu{Acc: 0, Dat: 0, Pc: 0, Cond: 0, Instructions: []Instruction{Instruction{Opcode: 1, A0: 0, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 1, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 1, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 2, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 2, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 1, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 1, A1: 5, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 128, A1: 4, A2: 0, Bm: 2, Cond: 0}, Instruction{Opcode: 16, A0: 5, A1: 0, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 5, A0: 4, A1: 128, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 1, A0: 5, A1: 4, A2: 0, Bm: 3, Cond: 1}, Instruction{Opcode: 18, A0: 66, A1: 0, A2: 0, Bm: 0, Cond: 1}, Instruction{Opcode: 1, A0: 5, A1: 4, A2: 0, Bm: 3, Cond: -1}, Instruction{Opcode: 13, A0: 1337, A1: 0, A2: 0, Bm: 0, Cond: 0}, Instruction{Opcode: 16, A0: 255, A1: 0, A2: 0, Bm: 0, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 0, A2: 0, Bm: 3, Cond: 0}}}, Cpu{Acc: 0, Dat: 0, Pc: 0, Cond: 0, Instructions: []Instruction{Instruction{Opcode: 1, A0: 0, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 6, A0: 4, A1: 99, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 3, A2: 0, Bm: 3, Cond: 1}, Instruction{Opcode: 1, A0: 3, A1: 0, A2: 0, Bm: 3, Cond: 1}, Instruction{Opcode: 1, A0: 4, A1: 1, A2: 0, Bm: 3, Cond: -1}, Instruction{Opcode: 1, A0: 2, A1: 0, A2: 0, Bm: 3, Cond: -1}}}, Cpu{Acc: 0, Dat: 0, Pc: 0, Cond: 0, Instructions: []Instruction{Instruction{Opcode: 1, A0: 0, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 6, A0: 4, A1: 199, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 3, A2: 0, Bm: 3, Cond: 1}, Instruction{Opcode: 1, A0: 3, A1: 0, A2: 0, Bm: 3, Cond: 1}, Instruction{Opcode: 10, A0: 100, A1: 0, A2: 0, Bm: 0, Cond: -1}, Instruction{Opcode: 1, A0: 4, A1: 1, A2: 0, Bm: 3, Cond: -1}, Instruction{Opcode: 1, A0: 2, A1: 0, A2: 0, Bm: 3, Cond: -1}}}, Cpu{Acc: 0, Dat: 0, Pc: 0, Cond: 0, Instructions: []Instruction{Instruction{Opcode: 1, A0: 0, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 10, A0: 200, A1: 0, A2: 0, Bm: 0, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 1, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 2, A1: 0, A2: 0, Bm: 3, Cond: 0}}}, Cpu{Acc: 0, Dat: 0, Pc: 0, Cond: 0, Instructions: []Instruction{Instruction{Opcode: 1, A0: 1, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 16, A0: 1, A1: 0, A2: 0, Bm: 0, Cond: 0}, Instruction{Opcode: 5, A0: 4, A1: 1, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 1, A0: 0, A1: 5, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 1, A0: 2, A1: 4, A2: 0, Bm: 3, Cond: 0}, Instruction{Opcode: 13, A0: 1337, A1: 0, A2: 0, Bm: 0, Cond: 1}, Instruction{Opcode: 16, A0: 255, A1: 0, A2: 0, Bm: 0, Cond: 1}, Instruction{Opcode: 18, A0: 5, A1: 0, A2: 0, Bm: 1, Cond: 0}, Instruction{Opcode: 1, A0: 4, A1: 0, A2: 0, Bm: 3, Cond: 0}}}}, ROMs: []ROM{ROM{A0: 0, A1: 0, Data: []int64{90, 132, 6, 69, 174, 203, 232, 243, 87, 254, 166, 61, 94, 65, 8, 208, 51, 34, 33, 129, 32, 221, 0, 160, 35, 175, 113, 4, 139, 245, 24, 29, 225, 15, 101, 9, 206, 66, 120, 62, 195, 55, 202, 143, 100, 50, 224, 172, 222, 145, 124, 42, 192, 7, 244, 149, 159, 64, 83, 229, 103, 182, 122, 82, 78, 63, 131, 75, 201, 130, 114, 46, 118, 28, 241, 30, 204, 183, 215, 199, 138, 16, 121, 26, 77, 25, 53, 22, 125, 67, 43, 205, 134, 171, 68, 146, 212, 14, 152, 20}}, ROM{A0: 0, A1: 0, Data: []int64{185, 155, 167, 36, 27, 60, 226, 58, 211, 240, 253, 79, 119, 209, 163, 12, 72, 128, 106, 218, 189, 216, 71, 91, 250, 150, 11, 236, 207, 73, 217, 17, 127, 177, 39, 231, 197, 178, 99, 230, 40, 54, 179, 93, 251, 220, 168, 112, 37, 246, 176, 156, 165, 95, 184, 57, 228, 133, 169, 252, 19, 2, 81, 48, 242, 105, 255, 116, 191, 89, 181, 70, 23, 194, 88, 97, 153, 235, 164, 158, 137, 238, 108, 239, 162, 144, 115, 140, 84, 188, 109, 219, 44, 214, 227, 161, 141, 80, 247, 52}}, ROM{A0: 0, A1: 0, Data: []int64{213, 249, 1, 123, 142, 190, 104, 107, 85, 157, 45, 237, 47, 147, 21, 31, 196, 136, 170, 248, 13, 92, 234, 86, 3, 193, 154, 56, 5, 111, 98, 74, 18, 223, 96, 148, 41, 117, 126, 173, 233, 10, 49, 180, 187, 186, 135, 59, 38, 210, 110, 102, 200, 76, 151, 198}}, ROM{A0: 0, A1: 0, Data: []int64{97, 49, 49, 95, 109, 89, 95, 104, 111, 109, 49, 101, 115, 95, 104, 52, 116, 51, 95, 98, 52, 114, 100, 115}}}, RAMs: []RAM{}, Links: []Link{Link{LHDevice: 0, LHReg: 0, RHDevice: 2, RHReg: 0}, Link{LHDevice: 2, LHReg: 1, RHDevice: 1, RHReg: 0}, Link{LHDevice: 2, LHReg: 2, RHDevice: 3, RHReg: 0}, Link{LHDevice: 3, LHReg: 1, RHDevice: 4, RHReg: 0}, Link{LHDevice: 3, LHReg: 1, RHDevice: 4, RHReg: 0}, Link{LHDevice: 3, LHReg: 2, RHDevice: 7, RHReg: 0}, Link{LHDevice: 4, LHReg: 1, RHDevice: 8, RHReg: 0}, Link{LHDevice: 4, LHReg: 2, RHDevice: 8, RHReg: 1}, Link{LHDevice: 4, LHReg: 3, RHDevice: 5, RHReg: 0}, Link{LHDevice: 5, LHReg: 1, RHDevice: 9, RHReg: 0}, Link{LHDevice: 5, LHReg: 2, RHDevice: 9, RHReg: 1}, Link{LHDevice: 5, LHReg: 3, RHDevice: 6, RHReg: 0}, Link{LHDevice: 6, LHReg: 1, RHDevice: 10, RHReg: 0}, Link{LHDevice: 6, LHReg: 2, RHDevice: 10, RHReg: 1}, Link{LHDevice: 7, LHReg: 1, RHDevice: 11, RHReg: 0}, Link{LHDevice: 7, LHReg: 2, RHDevice: 11, RHReg: 1}}}
+
+// End gob 1
+
