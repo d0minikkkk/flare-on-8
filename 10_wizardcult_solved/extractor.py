@@ -34,3 +34,9 @@ print(opcodes)
 with open('water-breathing-potion.txt','w') as f2:
     f2.write(opcodes)
     f2.close()
+
+# 000000 162d162
+# 000101 163d163
+# 00010001 163d162
+# 000102 163d160
+# 0001 163
