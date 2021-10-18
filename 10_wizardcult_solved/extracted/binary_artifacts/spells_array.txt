@@ -1,0 +1,341 @@
+Eldritch Blast
+Mass Heal
+Fireball
+Dominate Monster
+Detect Magic
+Stone Shape
+Clairvoyance
+Aid
+Detect Thoughts
+Shapechange
+Fire Shield
+Pass without Trace
+Antipathy/Sympathy
+Sleet Storm
+Dominate Person
+Tree Stride
+Passwall
+Shatter
+Giant Insect
+Revivify
+Circle of Death
+Divination
+Comprehend Languages
+Faerie Fire
+True Polymorph
+Searing Smite
+Dimension Door
+Shield
+Enlarge/Reduce
+Illusory Script
+Resistance
+Earthquake
+Contagion
+Bless
+Raise Dead
+Guidance
+Expeditious Retreat
+Grease
+Message
+Elemental Weapon
+Fear
+Clone
+Wrathful Smite
+Astral Projection
+Flaming Sphere
+Disguise Self
+Maze
+Slow
+Polymorph
+Weird
+Finger of Death
+Protection from Energy
+Nondetection
+Animal Friendship
+Spike Growth
+Goodberry
+Calm Emotions
+Antilife Shell
+Cone of Cold
+Identify
+Power Word Stun
+Control Water
+Thorn Whip
+Power Word Kill
+Blink
+Locate Creature
+Command
+Contingency
+Prismatic Wall
+Blade Ward
+Scrying
+Dominate Beast
+Sacred Flame
+Guards and Wards
+Arcane Eye
+Mirage Arcane
+Magic Mouth
+Glyph of Warding
+Friends
+Sending
+Stinking Cloud
+Compulsion
+Dancing Lights
+Darkness
+Invisibility
+Spare the Dying
+Wall of Fire
+Flame Blade
+Feather Fall
+Magic Weapon
+Purify Food and Drink
+Spirit Guardians
+Witch Bolt
+Animate Objects
+Gaseous Form
+Lightning Bolt
+Move Earth
+Disintegrate
+Mass Healing Word
+Meld into Stone
+Hellish Rebuke
+Aura of Life
+Augury
+Conjure Elemental
+Spider Climb
+Hold Person
+Project Image
+Heroism
+Crown of Madness
+Mirror Image
+Ray of Sickness
+Bane
+Wish
+Contact Other Plane
+Etherealness
+Blinding Smite
+Shield of Faith
+Vampiric Touch
+Shillelagh
+Programmed Illusion
+Remove Curse
+Major Image
+Insect Plague
+Color Spray
+Prismatic Spray
+Charm Person
+Arms of Hadar
+Dream
+Dissonant Whispers
+Teleport
+Dispel Magic
+Forbiddance
+Misty Step
+Cloud of Daggers
+Gentle Repose
+Phantasmal Force
+Circle of Power
+Stoneskin
+Sunbeam
+Fire Storm
+Gust of Wind
+Find Steed
+Druidcraft
+Confusion
+Bestow Curse
+Flesh to Stone
+Arcane Gate
+Ray of Frost
+Greater Invisibility
+Regenerate
+Burning Hands
+Wall of Ice
+True Strike
+Silence
+Banishing Smite
+Commune with Nature
+Time Stop
+Conjure Celestial
+Magic Jar
+True Seeing
+Transport via Plants
+Teleportation Circle
+Spiritual Weapon
+Prayer of Healing
+Awaken
+Conjure Woodland Beings
+Cloudkill
+Imprisonment
+Branding Smite
+Ray of Enfeeblement
+See Invisibility
+Word of Recall
+Silent Image
+Eyebite
+Cordon of Arrows
+Globe of Invulnerability
+Wind Walk
+Continual Flame
+Power Word Heal
+Web
+Protection from Poison
+Grasping Vine
+Telekinesis
+Heat Metal
+Harm
+Antimagic Field
+Jump
+Greater Restoration
+Chain Lightning
+Knock
+Blade Barrier
+Scorching Ray
+Zone of Truth
+Moonbeam
+Light
+Magic Circle
+Hail of Thorns
+Heal
+Blur
+Water Breathing
+Cure Wounds
+Enhance Ability
+Suggestion
+Water Walk
+Conjure Barrage
+Arcane Lock
+Reverse Gravity
+Planar Ally
+Mass Suggestion
+False Life
+Longstrider
+Detect Evil and Good
+Guiding Bolt
+Glibness
+Speak with Dead
+Call Lightning
+Death Ward
+Create Undead
+Beacon of Hope
+Alter Self
+Acid Splash
+Phantom Steed
+Planar Binding
+Prestidigitation
+Animate Dead
+Mind Blank
+Sleep
+Divine Favor
+Telepathy
+Vicious Mockery
+Blight
+Barkskin
+Counterspell
+Conjure Fey
+Find Traps
+Animal Shapes
+Speak with Plants
+True Resurrection
+Warding Bond
+Flame Strike
+Healing Word
+Wall of Thorns
+Wind Wall
+Seeming
+Chill Touch
+Lesser Restoration
+Guardian of Faith
+Meteor Swarm
+Shocking Grasp
+Commune
+Destructive Wave
+Staggering Smite
+Create or Destroy Water
+Sunburst
+Forcecage
+Tongues
+Legend Lore
+Find Familiar
+Thaumaturgy
+Incendiary Cloud
+Storm of Vengeance
+Holy Aura
+Levitate
+Inflict Wounds
+Compelled Duel
+Haste
+Resurrection
+Feign Death
+Delayed Blast Fireball
+Armor of Agathys
+Reincarnate
+Thunderous Smite
+Protection from Evil and Good
+Hex
+Lightning Arrow
+Find the Path
+Modify Memory
+Simulacrum
+Mage Armor
+Demiplane
+Hunger of Hadar
+Tsunami
+Speak with Animals
+Produce Flame
+Animal Messenger
+Hypnotic Pattern
+Mending
+Darkvision
+Gate
+Freedom of Movement
+Plant Growth
+Banishment
+Fire Bolt
+Aura of Vitality
+Wall of Stone
+Magic Missile
+Fly
+Conjure Animals
+Fog Cloud
+Sequester
+Detect Poison and Disease
+Aura of Purity
+Enthrall
+Beast Sense
+Ensnaring Strike
+Blindness/Deafness
+Fabricate
+Foresight
+Conjure Volley
+Symbol
+Control Weather
+Alarm
+Dispel Evil and Good
+Mislead
+Create Food and Water
+Locate Object
+Chromatic Orb
+Entangle
+Geas
+Locate Animals or Plants
+Rope Trick
+Hold Monster
+Poison Spray
+Sanctuary
+Swift Quiver
+Mage Hand
+Ice Storm
+Plane Shift
+Minor Illusion
+Divine Word
+Phantasmal Killer
+Creation
+Wall of Force
+Conjure Minor Elementals
+Mass Cure Wounds
+Hallucinatory Terrain
+Feeblemind
+Unseen Servant
+Daylight
+Thunderwave
+Hallow

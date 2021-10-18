@@ -38,10 +38,6 @@ for x in charset:
     for i in range(PeFEvMaDMvyrYg8UZgKKfVMBhak5):
         Oz9nOiwWfRL6yjIwvM4OgaZMIt0B[i] = ( Oz9nOiwWfRL6yjIwvM4OgaZMIt0B[i] - EuF8AepyhtkSXEWvNKIKZMaSHm4v[i%len_EuF8] ) & 0xff
     
-    # pad
-    #to_pad = 221 - (len(Oz9nOiwWfRL6yjIwvM4OgaZMIt0B) % 221)
-    #Oz9nOiwWfRL6yjIwvM4OgaZMIt0B.extend([0 for i in range(to_pad)])
-    #assert len(Oz9nOiwWfRL6yjIwvM4OgaZMIt0B) % 221 == 0
     # analysis
     chunks = []
     for r in range(0,len(Oz9nOiwWfRL6yjIwvM4OgaZMIt0B),len_EuF8):
@@ -58,29 +54,10 @@ for x in charset:
         checker = list(filter(lambda z: chr(z) in printable[:-2], tmp_array))
         if len(tmp_array) == len(checker):
             candidates[g].append(x)
-            #print(i,x)
-            #input(tmp_array)
 
 
 print(counts)
-#print(Oz9nOiwWfRL6yjIwvM4OgaZMIt0B)
 print('Candidates:')
 for i,a in enumerate(candidates):
     print(f'{i} -> {a}')
 exit()
-sEjdWWMFU4wObKZap4WeMBgdfgIfTHCvS = ""
-
-EuF8AepyhtkSXEWvNKIKZMaSHm4v = [i for i in b64d(GJrFu0fnwTxv2znmydOO5NG23UTO0MypKl)]
-bNT5lGtaxYHeyHFeEdImdD12Csa7MlR = ''.join(candidates)
-print(bNT5lGtaxYHeyHFeEdImdD12Csa7MlR)
-for i in range(len(EuF8AepyhtkSXEWvNKIKZMaSHm4v)):
-    EuF8AepyhtkSXEWvNKIKZMaSHm4v[i] = ( EuF8AepyhtkSXEWvNKIKZMaSHm4v[i] + ord(bNT5lGtaxYHeyHFeEdImdD12Csa7MlR[i%64]) ) & 0xff
-
-Oz9nOiwWfRL6yjIwvM4OgaZMIt0B = npxuau2RsDO0L4hSVCBHx[:]
-
-len_EuF8 = len(EuF8AepyhtkSXEWvNKIKZMaSHm4v)
-for i in range(PeFEvMaDMvyrYg8UZgKKfVMBhak5):
-    Oz9nOiwWfRL6yjIwvM4OgaZMIt0B[i] = ( Oz9nOiwWfRL6yjIwvM4OgaZMIt0B[i] - EuF8AepyhtkSXEWvNKIKZMaSHm4v[i%len_EuF8] ) & 0xff
-for i in range(len(npxuau2RsDO0L4hSVCBHx)):
-    sEjdWWMFU4wObKZap4WeMBgdfgIfTHCvS += chr( Oz9nOiwWfRL6yjIwvM4OgaZMIt0B[i] )
-print(sEjdWWMFU4wObKZap4WeMBgdfgIfTHCvS)

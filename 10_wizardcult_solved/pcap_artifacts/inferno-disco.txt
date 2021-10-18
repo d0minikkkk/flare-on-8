@@ -1,5 +1,0 @@
-6c73202f6d616765735f746f776572
-
-decodes to
-
-ls /mages_tower
