@@ -13,9 +13,9 @@ All text after decryption routine should be ascii. hence, can write script to br
 The script lowers the keyspace significantly, but some manual intervention is needed to get the full key.
 
 
-key1: ChVCVYzI1dU9cVg1ukBqO2u4UGr9aVCNWHpMUuYDLmDO22cdhXq3oqp8jmKBHUWI
+key1: `ChVCVYzI1dU9cVg1ukBqO2u4UGr9aVCNWHpMUuYDLmDO22cdhXq3oqp8jmKBHUWI`
 
-key2: UQ8yjqwAkoVGm7VDdhLoDk0Q75eKKhTfXXke36UFdtKAi0etRZ3DoHPz7NxJPgHl
+key2: `UQ8yjqwAkoVGm7VDdhLoDk0Q75eKKhTfXXke36UFdtKAi0etRZ3DoHPz7NxJPgHl`
 
 
 `I_h4d_v1rtU411y_n0_r3h34rs4l_f0r_th4t@flare-on.com`
