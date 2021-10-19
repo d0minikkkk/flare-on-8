@@ -87,7 +87,7 @@ with open('output.dll','rb') as f:
 buf = cast(inbuf, wintypes.LPVOID)
 n = len(inbuf)
 to_free = []
-with open('hex_data.txt','r') as f2:
+with open('..\\extracted\\hex_data.txt','r') as f2:
     hex_data = f2.read()
 patches = hex_data.split()
 for i,p in enumerate(patches):
